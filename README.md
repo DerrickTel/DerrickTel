@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**DerrickTel/DerrickTel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning JavaScript; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [derricktel@foxmail.com](derricktel.github.io);
+- 📝[Resume](https://derricktel.github.io/about/)
+
+**Languages:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
+
