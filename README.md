@@ -9,8 +9,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning JavaScript; 
+- 👨🏽‍💻 I’m currently working on [ant-design/pro-components](https://github.com/ant-design/pro-components) :wink:;
+- 🌱 I’m currently learning React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [derricktel@foxmail.com](derricktel.github.io);
 - 📝[Resume](https://derricktel.github.io/about/)
